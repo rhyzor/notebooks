@@ -35,55 +35,6 @@ env/
 .jupyter/
 .jupyterlab/
 
-# Data files (uncomment if you don't want to commit large data)
-*.csv
-*.tsv
-*.xlsx
-*.xls
-*.db
-*.sqlite
-*.sqlite3
-*.parquet
-*.feather
-*.h5
-*.hdf5
-*.pkl
-*.pickle
-*.joblib
-
-# Large data folders (adjust as needed)
-data/
-datasets/
-input/
-outputs/
-results/
-logs/
-models/
-checkpoints/
-*.pth
-*.pt
-*.bin
-*.onnx
-
-# Model files (uncomment if you don't want to commit models)
-*.h5
-*.pkl
-*.joblib
-*.pt
-*.pth
-*.onnx
-*.tflite
-*.pb
-
-# Plots and figures (optional)
-figures/
-*.png
-*.jpg
-*.jpeg
-*.gif
-*.svg
-*.pdf
-
 # Reports
 reports/
 *.html
@@ -176,22 +127,3 @@ Thumbs.db
 # Local Jupyter configuration
 jupyter_notebook_config.py
 
-# R (if mixed with R in DS project)
-.Rproj.user
-.Rhistory
-.RData
-.Ruserdata
-
-# Compiled files
-*.com
-*.class
-*.dll
-*.exe
-*.o
-*.so
-*.d
-*.7z
-*.gz
-*.rar
-*.tar
-*.zip
