@@ -127,3 +127,5 @@ Thumbs.db
 # Local Jupyter configuration
 jupyter_notebook_config.py
 
+catboost_info
+data/*
