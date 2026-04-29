@@ -100,6 +100,3 @@ study-notebooks/
 
 GitHub: [@rhyzor](https://github.com/rhyzor)
 Telegram: [@rhyzor1]https://t.me/rhyzor1
-```
-
-Если хочешь ещё сильнее убрать что‑то (например, баннер или детали ручной установки), просто скажи — подрежу.
