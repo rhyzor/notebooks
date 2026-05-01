@@ -59,10 +59,12 @@ jupyter notebook
 ```
 study-notebooks/
 ├── notebooks/        # ipynb-файлы
-├── data/             # датасеты
-├── src/              # вспомогательные скрипты
-├── assets/           # картинки и гифки
-└── requirements.txt
+├── data/             # датасеты, файлы
+├── 123/              # в будущем добавлю что то
+├── Other-files/      # не ipynb-файлы, но другие практики и работы
+├── requirements.txt
+├── .gitignore
+└── README.md
 ```
 
 ---
@@ -99,4 +101,5 @@ study-notebooks/
 ## ⭐ Поддержка / Связь
 
 GitHub: [@rhyzor](https://github.com/rhyzor)
-Telegram: [@rhyzor1]https://t.me/rhyzor1
+
+Telegram: [@rhyzor1](https://t.me/rhyzor1)
