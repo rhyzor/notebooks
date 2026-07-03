@@ -44,9 +44,8 @@ jupyter notebook
 
 ```
 study-notebooks/
-├── notebooks/        # ipynb-файлы
 ├── data/             # датасеты, файлы
-├── Other-files/      # не ipynb-файлы, но другие практики и работы
+├── notebooks/        # ipynb-файлы
 ├── requirements.txt
 ├── .gitignore
 └── README.md
